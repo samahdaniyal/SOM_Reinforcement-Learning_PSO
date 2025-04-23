@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 This assignment explores three core topics in computational intelligence:
 
 1. **Self-Organizing Maps (SOM)** for clustering and visualizing death rate from natural disasters-related world data.
@@ -13,7 +13,7 @@ This assignment explores three core topics in computational intelligence:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Assignment03/
@@ -28,7 +28,7 @@ Assignment03/
 
 ---
 
-## 🔍 Question Highlights
+## Question Highlights
 
 ### Q1: SOM Clustering of COVID Data
 - Apply SOM on a multi-attribute dataset.
@@ -47,7 +47,7 @@ Assignment03/
 
 ---
 
-## ✅ Requirements
+## Requirements
 - Python 3.8+
 - Libraries: `numpy`, `matplotlib`, `geopandas`, `gym`, `seaborn`
 
